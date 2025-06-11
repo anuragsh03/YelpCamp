@@ -103,22 +103,4 @@ node app.js
 
 ---
 
-## Screenshots
-
-*Add screenshots of the main pages here if available.*
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 *Enjoy your camping adventures with YelpCamp!*
